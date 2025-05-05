@@ -26,7 +26,7 @@ int main() {
 
     // Movimento do Bispo
 
-    printf("MOvimento do Bispo: \n");
+    printf("Movimento do Bispo: \n");
     i = 0;
     while (i < 5) 
     {
