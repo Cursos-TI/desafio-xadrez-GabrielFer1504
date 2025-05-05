@@ -62,7 +62,7 @@ int main() {
         while (i < esquerda)
     {
         printf("-> Esquerda. \n");
-        i = i + 1;
+        i++;
     }
 
     return 0;
